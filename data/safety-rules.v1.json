@@ -1,0 +1,39 @@
+{
+  "Version": "1",
+  "Categories": [
+    {
+      "Name": "严重攻击",
+      "FormsBase64": [
+        "5Y675q27",
+        "cXVzaQ==",
+        "5puy5Zub",
+        "5YK76YC8",
+        "c2hhYmk=",
+        "5rKZ5q+U",
+        "6ISR5q6L",
+        "bmFvY2Fu",
+        "5bqf54mp",
+        "ZmVpd3U=",
+        "5rua",
+        "Z3Vu",
+        "6Zet5Zi0",
+        "Yml6dWk="
+      ]
+    },
+    {
+      "Name": "暴力威胁",
+      "FormsBase64": [
+        "5byE5q275L2g",
+        "bm9uZ3Npbmk="
+      ]
+    },
+    {
+      "Name": "家属攻击",
+      "FormsBase64": [
+        "5L2g5aaI",
+        "bmltYQ==",
+        "5rOl6ams"
+      ]
+    }
+  ]
+}

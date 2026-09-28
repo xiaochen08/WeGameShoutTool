@@ -1,0 +1,22 @@
+# User/runtime data
+运行日志.txt
+诊断报告-*.txt
+工具状态.json
+custom-templates*.json
+*.wgphrases.json
+**/test-artifacts/
+**/test-artifacts-*/
+
+# Generated binaries and archives
+*.exe
+*.dll
+*.pdb
+*.zip
+
+# Internal analysis and extracted verification material
+/.bug-hunter/
+/verification/
+
+# Historical portable builds and generated distribution output
+/WeGame喊话自定义工具-portable*/
+/dist/
